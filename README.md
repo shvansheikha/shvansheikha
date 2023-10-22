@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shvansheikha
 - 👀 I’m interested in Laravel,Vue js and Tailwind Css
-- 🌱 I’m currently learning Inertia JS
 - 📫 Shvansheikha@gmail.com || https://www.linkedin.com/in/shvansheikha 
 
 <!---
